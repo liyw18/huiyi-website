@@ -1,0 +1,10 @@
+{
+  "sha256": "dbe7679d1009b48fda3a0a08c2541151065042809f403b2aa7362573148634e3",
+  "applicationId": "com.example.meetingsummary",
+  "channel": "debug",
+  "file": "huiyi-1.3.apk",
+  "version": "1.3",
+  "versionCode": 4,
+  "minAndroid": "7.0",
+  "bytes": 8776167
+}
