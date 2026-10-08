@@ -28,7 +28,7 @@ node scripts/website-server.cjs
 
 在 GitHub 仓库 Settings → Pages 中选择从分支部署，选择 main 分支的 / (root)。发布完成后，使用 GitHub 返回的网站地址查看官网和下载 APK。若使用其他静态托管服务，同样上传这些文件即可。
 
-当前尚未上传任何公网仓库或绑定域名。没有在页面中填写虚构的官网地址或下载地址。
+官网已发布：https://liyw18.github.io/huiyi-website/ 。仓库：https://github.com/liyw18/huiyi-website 。APK：https://liyw18.github.io/huiyi-website/downloads/huiyi-1.3.apk 。下载二维码会按当前官网地址自动生成。
 
 ## 更新 APK
 
